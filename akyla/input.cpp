@@ -10,7 +10,7 @@
 	std::cout << "Введите количество элементов: ";
 	std::cin >> n;
 
-	std::vector<int> vec(n);
+	std::vector<int> vec;
 	std::cout << "ВВедите эл-ты: \n";
 	for (int i = 0; i < n; ++i) {
 		std::cin >> a;

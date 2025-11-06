@@ -6,7 +6,7 @@
 
 int main() {
     std::vector<int> numb = inputq();
-    bSort(numb);
+    bsort(numb);
     printar(numb);
     return 0;
 }

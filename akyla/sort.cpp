@@ -1,7 +1,7 @@
 //sort
 #include "sort.h";
 #include <vector>;
-void b_sort(std::vector<int>& vec){
+void bsort(std::vector<int>& vec){
 int t;
 int n=vec.size();
 for (int i = 0; i < n - 1; ++i) {
