@@ -5,8 +5,8 @@
 #include "output.h"
 
 int main() {
-    std::vector<int> numb = inputq();
-    bsort(numb);
+    std::vector<int> 'numb = inputq();
+    bSort(numb);
     printar(numb);
     return 0;
 }
